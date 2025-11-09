@@ -18,6 +18,9 @@ Thumbs.db
 .env
 .env.local
 
+# MCP configuration (contains sensitive tokens)
+.mcp.json
+
 # Logs
 *.log
 npm-debug.log*
